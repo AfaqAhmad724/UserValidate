@@ -1,0 +1,27 @@
+export const Colors = {
+    bg: '#FFFFFF',
+    gray: '#A4A4A4',
+    primary: '#5856D6',
+    secondary: '#000000',
+    slateGray: '#727171',
+    lightGray: '#B8B8B8',
+    darkGray: '#464444',
+    black: '#000000',
+    AshGray: '#A19D9D',
+    green: 'green',
+    offWhite: '#F6F6F6',
+    softGray: '#EEECEC',
+    transparentGray: '#84848429',
+    snowGray: '#F7F7F7',
+    darkRed: '#DB0B2F',
+    red: 'red',
+    darkBlack: '#292929',
+    springGreen: '#5AFEAE',
+    forestGreen: '#2D9F12',
+    lightBlue: '#7B7AF1',
+    darkGreen: '#428236',
+    lightGreen: '#25D366',
+    primary_green: '#398E3C',
+    orange:'orange'
+  };
+  

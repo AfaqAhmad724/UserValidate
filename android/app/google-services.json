@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778339215773",
+    "project_id": "uservalid-9b932",
+    "storage_bucket": "uservalid-9b932.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778339215773:android:e296df47450d2de8086774",
+        "android_client_info": {
+          "package_name": "com.uservalidate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLjWC-qTGdh1J3P5gGIuZCgEg7wxGWBf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
